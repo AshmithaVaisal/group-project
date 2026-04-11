@@ -12,7 +12,7 @@ const country = "India";
 let number = 10;
 let text = "Hello from thuraigpakkam";
 let isActive = true;
-let fruits = ["apple", "banana", "mango", "jackfruit"];
+let fruits = ["apple", "banana", "mango", "pineapple"];
 let person = { name: "Raj", age: 25 };
 
 console.log(name, age, country);
