@@ -10,9 +10,9 @@ const country = "India";
 
 // Different data types
 let number = 10;
-let text = "Hello";
+let text = "Hello from thuraigpakkam";
 let isActive = true;
-let fruits = ["apple", "banana"];
+let fruits = ["apple", "banana", "mango", "jackfruit"];
 let person = { name: "Raj", age: 25 };
 
 console.log(name, age, country);
